@@ -1,6 +1,6 @@
 # Customer Credit Card Clustering
 
-This project aims to create a *clustering* model on *credit card* customers and evaluate the *behavior (characteristics)* of each *cluster* with ultimate goal  meet *customer* needs for targeted *clusters*
+This project aims to built a *clustering* model on *credit card* customers and evaluate the *behavior (characteristics)* of each *cluster* with ultimate goal  meet *customer* needs for targeted *clusters*
 
 # File Explanation on Github
 
