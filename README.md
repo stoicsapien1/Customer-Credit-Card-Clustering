@@ -7,7 +7,7 @@ This project aims to built a *clustering* model on *credit card* customers and e
 This repository consists of several files, namely :
 
 - `dataset_Customer-Credit-Card-Clustering.csv` = Datasets used in the project
-- `notebook_Customer-Credit-Card-Clustering.ipynb` = This file is the main *notebook* used to explore create model and anlyze clusters
+- `notebook_Customer-Credit-Card-Clustering.ipynb` = This file is the main *notebook* used to explore dataset, create model and analyze clusters
 - `inferencing_Customer-Credit-Card-Clustering.ipynb`= *Notebook* used for *testing inference*. Inferencing is done on a separate *notebook* to prove that the model can run on a *notebook* that is *clean* of variables**.
 
 # Brief Summary of Project
